@@ -1,0 +1,14 @@
+.header{
+    align-content: center;
+    
+    }
+    
+    .row{
+    display: flex;
+    
+    }
+    
+    .row div{
+        margin-left: 300px;
+        ;
+    }
